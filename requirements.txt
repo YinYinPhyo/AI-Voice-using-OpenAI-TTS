@@ -1,0 +1,11 @@
+pydub
+SpeechRecognition
+openai-whisper
+torch
+numpy
+openai>=1.0.0
+click
+python-dotenv
+pyaudio
+aiofiles
+ffmpeg-python 
